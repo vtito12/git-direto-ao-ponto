@@ -1,1 +1,3 @@
-# git-direto-ao-ponto
+O que aprendi sobre Git até agora.
+
+O Git nada mais é do que um projeto de código aberto e com manutenção ativa desenvolvido no ano de 2005 por Linus Torvalds, com a necessidade de ter a própria ferramenta de controle de versão, usando como base outra ferramente que ele utilizava. O Git é claramente um exemplo de DVCS. Em vez de ter apenas um único local para o histórico completo da versão do software, que é algo comum em sistemas de controle como CVS ou Subversion, no Git a cópia do trabalho de todo desenvolvedor responsável pelo código é também um repositório que pode conter o histórico completo de todas as alterações. O Git trabalha como se fotos, a cada versão que é editada e sobe para o repositório é como tirar uma foto completa do repositório.
